@@ -1,4 +1,4 @@
-# Genetic Algorithms
+# Image Processing
 *********************
 I wrote some Image Processing algorithms in Python using several different Python libraries.
 I used OpenCV, ImageJ, Numpy, Imutils, PIL - Image, etc.
