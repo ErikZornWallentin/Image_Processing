@@ -1,0 +1,6 @@
+http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
+http://docs.opencv.org/trunk/da/d6e/tutorial_py_geometric_transformations.html
+http://docs.opencv.org/3.1.0/d4/dc6/tutorial_py_template_matching.html
+http://www.loc.gov/exhibits/empire/gorskii.html
+http://stackoverflow.com/questions/6991471/computing-cross-correlation-function
+http://effbot.org/imagingbook/image.htm
